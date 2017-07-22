@@ -25,13 +25,13 @@ body .overlay {
 .content {
   position: absolute;
   width: 75%;
-  top: 18em;
+  top: 20em;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-.content h5 {
-  letter-spacing: 2px;
+.content .tag {
+  letter-spacing: 3px;
   margin: 30px;
   margin-left: 220px;
   font-style: italic;
